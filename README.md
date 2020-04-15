@@ -89,6 +89,11 @@ Sitio web: http://filisantillan.com
   <img src="/themes/screenshots/vstheme-lucy.png" />
 </a>
 
+### [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode" target="_blank">
+  <img src="/themes/screenshots/vstheme-horizon.png" />
+</a>
 
 El template del código original lo he sacado de: https://github.com/viatsko/awesome-vscode/blob/master/themes/theme-template.js
 
