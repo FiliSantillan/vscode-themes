@@ -35,6 +35,12 @@ Sitio web: http://filisantillan.com
   <img src="./themes/screenshots/vstheme-monokai-pro.png" />
 </a>
 
+### [Niketa Theme Dark](https://marketplace.visualstudio.com/items?itemName=selfrefactor.niketa-dark-theme)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=selfrefactor.niketa-dark-theme" target="_blank">
+  <img src="./themes/screenshots/vstheme-niketa.png" />
+</a>
+
 ### [Code Blue](https://vscodethemes.com/e/Sujan.code-blue)
 
 <a href="https://vscodethemes.com/e/Sujan.code-blue" target="_blank">
