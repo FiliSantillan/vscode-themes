@@ -107,6 +107,15 @@ Sitio web: http://filisantillan.com
   <img src="./themes/screenshots/vstheme-xd.png" />
 </a>
 
+### [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight" target="_blank">
+  <img src="./themes/screenshots/vstheme-moonlight.png" />
+</a>
+
+<br />
+<br />
+
 El template del código original lo he sacado de: https://github.com/viatsko/awesome-vscode/blob/master/themes/theme-template.js
 
 ## 📜 Licencia
@@ -116,6 +125,3 @@ El template del código original lo he sacado de: https://github.com/viatsko/awe
 Este trabajo esta bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
 Debido a que este es mi repositorio personal, la licencia solo aplica para el contenido que yo he creado y no los para los recursos de los autores de cada tema ni para Visual Studio Code.
-
-
-
